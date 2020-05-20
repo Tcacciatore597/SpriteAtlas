@@ -13,6 +13,8 @@
 		424DAB822475ABD900F4D67E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 424DAB802475ABD900F4D67E /* Main.storyboard */; };
 		424DAB842475ABE100F4D67E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 424DAB832475ABE100F4D67E /* Assets.xcassets */; };
 		424DAB872475ABE100F4D67E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 424DAB852475ABE100F4D67E /* LaunchScreen.storyboard */; };
+		424DABB72475B8E800F4D67E /* MyFirstTileMapScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 424DABB62475B8E800F4D67E /* MyFirstTileMapScene.sks */; };
+		424DABB92475B94F00F4D67E /* MyFirstTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = 424DABB82475B94F00F4D67E /* MyFirstTileSet.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		424DAB832475ABE100F4D67E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		424DAB862475ABE100F4D67E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		424DAB882475ABE100F4D67E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		424DABB62475B8E800F4D67E /* MyFirstTileMapScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyFirstTileMapScene.sks; sourceTree = "<group>"; };
+		424DABB82475B94F00F4D67E /* MyFirstTileSet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyFirstTileSet.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				424DAB832475ABE100F4D67E /* Assets.xcassets */,
 				424DAB852475ABE100F4D67E /* LaunchScreen.storyboard */,
 				424DAB882475ABE100F4D67E /* Info.plist */,
+				424DABB62475B8E800F4D67E /* MyFirstTileMapScene.sks */,
+				424DABB82475B94F00F4D67E /* MyFirstTileSet.sks */,
 			);
 			path = SpriteAtlasPractice;
 			sourceTree = "<group>";
@@ -127,7 +133,9 @@
 			files = (
 				424DAB822475ABD900F4D67E /* Main.storyboard in Resources */,
 				424DAB842475ABE100F4D67E /* Assets.xcassets in Resources */,
+				424DABB72475B8E800F4D67E /* MyFirstTileMapScene.sks in Resources */,
 				424DAB872475ABE100F4D67E /* LaunchScreen.storyboard in Resources */,
+				424DABB92475B94F00F4D67E /* MyFirstTileSet.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
